@@ -45,7 +45,7 @@ I enjoy working with:
 
 # Featured Projects
 
-## AI Video Dubbing Pipeline
+## [AI Video Dubbing Pipeline](https://github.com/Yonatan-Ethiopia/live-translator)
 A pipeline that:
 - takes a video link
 - extracts speech
@@ -64,7 +64,7 @@ Python, FastAPI, FFmpeg, Whisper, TTS
 
 ---  
 
-## RBoard
+## [RBoard](https://github.com/Yonatan-Ethiopia/rboard)
 Minimal clipboard manager software written in Rust.
 
 ### Tech
@@ -77,7 +77,7 @@ Rust
 
 ---    
 
-## Chat to EPUB Generator
+## [AI Chat to EPUB Generator](https://github.com/Yonatan-Ethiopia/chat-to-doc)
 Converts chat conversations into properly formatted EPUB books.
 
 ### Features
@@ -91,7 +91,7 @@ Python, parsing tools, EPUB libraries, turndown.js, sqlite
 
 ---  
 
-## Roxy  
+## [Roxy](https://github.com/Yonatan-Ethiopia/roxy)  
 A minimal CLI tool to manage proxies.  
 
 ### Tech  
@@ -104,7 +104,7 @@ Rust
 
 --- 
 
-## audioX
+## [audioX](https://github.com/Yonatan-Ethiopia/audioX)
 A software that utilises ffmpeg to compress large audio files.
 
 ### Tech
