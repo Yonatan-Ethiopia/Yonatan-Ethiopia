@@ -84,9 +84,10 @@ Converts chat conversations into properly formatted EPUB books.
 - preserves formatting
 - handles long conversations
 - exports clean ebook structure
+- Turn your questions into chapters and sections
 
 ### Tech
-Python, parsing tools, EPUB libraries
+Python, parsing tools, EPUB libraries, turndown.js, sqlite
 
 ---  
 
