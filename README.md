@@ -45,23 +45,6 @@ I enjoy working with:
 
 # Featured Projects
 
-## [AI Video Dubbing Pipeline](https://github.com/Yonatan-Ethiopia/live-translator)
-A pipeline that:
-- takes a video link
-- extracts speech
-- translates audio
-- generates dubbed voice output
-- creates timestamped subtitles
-
-### Tech
-Python, FastAPI, FFmpeg, Whisper, TTS
-
-### Highlights
-- async processing
-- media pipeline orchestration
-- subtitle timestamp generation
-- automated workflow
-
 ---  
 
 ## [RBoard](https://github.com/Yonatan-Ethiopia/rboard)
@@ -74,6 +57,38 @@ Rust
 - performance
 - lightweight tooling
 - native desktop concepts 
+
+---
+## [Roxy](https://github.com/Yonatan-Ethiopia/roxy)  
+A minimal CLI tool to manage proxies.  
+
+### Tech  
+Rust
+
+### Focus
+- Ease of use  
+- Convineince
+- Fast and lightweight
+
+--- 
+
+## [AI Video Dubbing Pipeline](https://github.com/Yonatan-Ethiopia/live-translator)
+A pipeline that:
+- takes a video link
+- extracts speech
+- translates audio
+- generates dubbed voice output
+- creates timestamped subtitles
+
+### Tech
+Python, FastAPI, FFmpeg, Whisper, WhisperX, TTS, VAD
+
+### Highlights
+- async processing
+- media pipeline orchestration
+- subtitle timestamp generation
+- automated workflow
+
 
 ---    
 
@@ -90,19 +105,6 @@ Converts chat conversations into properly formatted EPUB books.
 Python, parsing tools, EPUB libraries, turndown.js, sqlite
 
 ---  
-
-## [Roxy](https://github.com/Yonatan-Ethiopia/roxy)  
-A minimal CLI tool to manage proxies.  
-
-### Tech  
-Rust
-
-### Focus
-- Ease of use  
-- Convineince
-- Fast and lightweight
-
---- 
 
 ## [audioX](https://github.com/Yonatan-Ethiopia/audioX)
 A software that utilises ffmpeg to compress large audio files.
