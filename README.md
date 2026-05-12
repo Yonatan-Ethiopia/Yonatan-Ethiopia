@@ -51,7 +51,7 @@ I enjoy working with:
 Minimal clipboard manager software written in Rust.
 
 ### Tech
-Rust
+Rust, egui, arboard, rusqlite
 
 ### Focus
 - performance
@@ -59,18 +59,7 @@ Rust
 - native desktop concepts 
 
 ---
-## [Roxy](https://github.com/Yonatan-Ethiopia/roxy)  
-A minimal CLI tool to manage proxies.  
 
-### Tech  
-Rust
-
-### Focus
-- Ease of use  
-- Convineince
-- Fast and lightweight
-
---- 
 
 ## [AI Video Dubbing Pipeline](https://github.com/Yonatan-Ethiopia/live-translator)
 A pipeline that:
@@ -89,6 +78,18 @@ Python, FastAPI, FFmpeg, Whisper, WhisperX, TTS, VAD
 - subtitle timestamp generation
 - automated workflow
 
+---
+
+## [Roxy](https://github.com/Yonatan-Ethiopia/roxy)  
+A minimal CLI tool to manage proxies.  
+
+### Tech  
+Rust
+
+### Focus
+- Ease of use  
+- Convineince
+- Fast and lightweight
 
 ---    
 
