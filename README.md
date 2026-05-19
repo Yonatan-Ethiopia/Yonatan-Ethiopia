@@ -1,6 +1,6 @@
 # Hello👋
 
-I am Backend-focused developer building automation tools, AI pipelines, and systems software.
+My name is yonatan and I am Backend-focused developer building automation tools, AI pipelines, and systems software.
 
 I enjoy working with:
 - backend systems
