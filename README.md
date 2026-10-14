@@ -1,6 +1,6 @@
-# Yonatan Ethiopia
+# Hi there! I am Yonatan Ethiopia
 
-I am a Full-Stack backend-focused developer building APIs, production features, automation tools, and systems software.
+A Full-Stack backend-focused developer building APIs, production features, automation tools, and systems software.
 
 Currently working with Go, Python, TypeScript, and Rust. I enjoy figuring out how systems behave under real conditions, from database queries and access control to concurrency and deployment.
 
